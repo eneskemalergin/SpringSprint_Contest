@@ -5,11 +5,10 @@ Created on Sun Mar 15 01:40:56 2015
 @author: Enes Kemal Ergin
 
 Connected Cell in a Grid
+
+# It is not complete and working...
 """
-"""
-m = int(raw_input())
-n = int(raw_input())
-"""
+
 
 matrix = [[1,0,0],[0,1,0],[0,0,1]]
 
